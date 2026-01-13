@@ -1,7 +1,3 @@
-Here is the cleaned-up, properly formatted Markdown for your project's `README.md`. I have removed the "Code kopieren" artifacts and organized the structure for better readability.
-
----
-
 # React + TypeScript + Vite Frame
 
 A minimal, opinionated starter repository for building modern React applications with TypeScript and Vite.

@@ -129,7 +129,3 @@ This frame intentionally avoids locking in specific libraries to remain flexible
 * **Routing:** React Router or TanStack Router.
 * **State Management:** Zustand, Redux Toolkit, or Jotai.
 * **Testing:** Vitest and React Testing Library.
-
----
-
-Would you like me to help you write a configuration guide for any specific additions, like adding **Tailwind CSS** or **React Router** to this setup?
